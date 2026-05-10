@@ -6,9 +6,10 @@ Hesap-Kart hareketlerindeki excel veya csv verileri okuma, sadeceleştirme, düz
 #2 Herhangi bir python enviromentine kodları çekin.
 
 #3 Dosyanız Excel ise : BaslatE(" Veri/Hareket Dosyanızın yolu .xlsx ")
-   Dosyanız CSV ise : BaslatCSV(" Veri/Hareket Dosyanızın yolu .xlsx ")
 
-#4 Karşınıza çıkan menü ile artık işlemlerinizi yapabilirsiniz.
+#4 Dosyanız CSV ise : BaslatCSV(" Veri/Hareket Dosyanızın yolu .xlsx ")
+
+#5 Karşınıza çıkan menü ile artık işlemlerinizi yapabilirsiniz.
 
 
 Not: Eğer dosyanız ".xls" türünde ise içine girip save as ile ".xlsx" türüne çevirin. 
