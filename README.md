@@ -19,7 +19,7 @@ A Python project that allows you to read, simplify, organize, categorize, and pr
 Note: If your file is in .xls format, open it and use "Save As" to convert it to .xlsx format.<br>
 
 
-Hesap-Kart hareketlerindeki excel veya csv verileri okuma, sadeceleştirme, düzenleme ve kategorize etme ve bir çeşit işlem yapabilmenizi sağlayan python projem.<br>
+Hesap-Kart hareketlerindeki excel veya csv verileri okuma, sadeleştirme, düzenleme ve kategorize etme ve bir çeşit işlem yapabilmenizi sağlayan python projem.<br>
 
 #1  Bankanızdan verileri alın. <br>
 #2 Herhangi bir python enviromentine kodları çekin.<br>
