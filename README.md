@@ -9,8 +9,8 @@ Simple Python project that:
 
 # BankaVeriOrg
 
-A Python project that allows you to read, simplify, organize, categorize, and process transaction data from your bank/credit card statements in Excel or CSV formats.
-#1 Get your data from your bank.
+A Python project that allows you to read, simplify, organize, categorize, and process transaction data from your bank/credit card statements in Excel or CSV formats. \n
+#1 Get your data from your bank. \n
 #2 Clone/pull the code into any Python environment.
 #3 If your file is Excel: BaslatE("path/to/your/statement/file.xlsx")
 #4 If your file is CSV: BaslatCSV("path/to/your/statement/file.csv")
